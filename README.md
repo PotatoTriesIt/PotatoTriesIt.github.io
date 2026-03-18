@@ -2,8 +2,7 @@
 
 > Entrenador de Last Layer para cubo Rubik 3×3 — OLL, PLL y Full LL con timer estilo csTimer.
 
-![favicon-source](favicon-source.png)
-
+![LL Trainer](icon-512)
 ---
 
 ## ✨ Características
